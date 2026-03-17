@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/modules/content/">
+  <channel>
+    <title>Vitals &amp; Signals</title>
+    <link>https://alejoeguren.github.io/vitals-and-signals/</link>
+    <description>Weekly intelligence at the intersection of AI and healthcare. For founders, investors, clinicians, and AI-curious generalists.</description>
+    <language>en-us</language>
+    <itunes:author>Vitals &amp; Signals</itunes:author>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Medicine"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+  </channel>
+</rss>

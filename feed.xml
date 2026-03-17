@@ -14,5 +14,15 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+  
+  <item>
+    <title>Ep. 001 — Doctronic and the OxyContin Exploit</title>
+    <description>Utah handed an AI the authority to prescribe medications, a security firm broke it in a single conversation, and the FDA has never cleared a single LLM-based medical device — this week, the gap between how fast healthcare is deploying AI and how slowly the regulatory system is catching up became impossible to ignore.</description>
+    <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://github.com/alejoeguren/vitals-and-signals/releases/download/ep001/ep001-podcast-2026-03-11.mp3" length="7187244" type="audio/mpeg"/>
+    <guid isPermaLink="false">vitals-and-signals-ep001</guid>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
   </channel>
 </rss>

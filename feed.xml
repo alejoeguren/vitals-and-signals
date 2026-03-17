@@ -14,6 +14,11 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://raw.githubusercontent.com/alejoeguren/vitals-and-signals/main/cover.png"/>
+    <itunes:owner>
+      <itunes:email>alejo.eguren+autopod@gmail.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>alejo.eguren+autopod@gmail.com</managingEditor>
   
   <item>
     <title>Ep. 001 — Doctronic and the OxyContin Exploit</title>

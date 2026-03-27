@@ -20,6 +20,16 @@
     </itunes:owner>
     <managingEditor>alejo.eguren+autopod@gmail.com</managingEditor>
   
+  
+  <item>
+    <title>Ep. 002 — Ep. 002 — The FDA Is Moving the Goalposts on Clinical AI</title>
+    <description>The FDA is quietly rewriting the fundamental contract of clinical AI regulation — moving from a pre-market permission slip to a post-market surveillance regime — and every founder, investor, and clinician in this industry needs to understand what that means before the framework lands.</description>
+    <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://github.com/alejoeguren/vitals-and-signals/releases/download/ep002/ep002-podcast-2026-03-27.mp3" length="15395778" type="audio/mpeg"/>
+    <guid isPermaLink="false">vitals-and-signals-ep002</guid>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
     <title>Ep. 001 — Doctronic and the OxyContin Exploit</title>
     <description>Utah handed an AI the authority to prescribe medications, a security firm broke it in a single conversation, and the FDA has never cleared a single LLM-based medical device — this week, the gap between how fast healthcare is deploying AI and how slowly the regulatory system is catching up became impossible to ignore.</description>

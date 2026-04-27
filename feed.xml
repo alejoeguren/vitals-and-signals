@@ -22,6 +22,16 @@
   
   
   
+  
+  <item>
+    <title>Ep. 004 — The Same AI That Heals You Can Hack You</title>
+    <description>Physicians are already building their own clinical tools — responsibly, with patient privacy designed in from day one. The question isn&apos;t whether they should. It&apos;s whether the EHRs, the hospitals, and a privacy law written in 1996 for a fax-first world will open up to meet them — or keep forcing innovation to happen in the shadows.</description>
+    <pubDate>Mon, 27 Apr 2026 10:00:00 +0000</pubDate>
+    <enclosure url="https://github.com/alejoeguren/vitals-and-signals/releases/download/ep004/ep004-podcast-2026-04-26.mp3" length="15634796" type="audio/mpeg"/>
+    <guid isPermaLink="false">vitals-and-signals-ep004</guid>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
     <title>Ep. 003 — The Ambient AI Scribe Billing Bombshell Payers Have Been Waiting For</title>
     <description>The ambient AI scribe industry sold itself on burnout relief — but the dirty secret hiding in plain sight is that better documentation means higher billing codes, and a peer-reviewed JAMA paper plus a $2.3B BCBSA study just handed payers the ammunition to declare war.</description>

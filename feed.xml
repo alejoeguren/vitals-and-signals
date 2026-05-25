@@ -26,6 +26,16 @@
   
 
   
+  
+  <item>
+    <title>Ep. 006 — The $165 Billion AI Payment Rail Nobody Noticed</title>
+    <description>The government just built the first payment rail explicitly designed for AI agents managing chronic disease — and it goes live in six weeks, designed by former VCs now inside CMS, with 165 million commercial lives already pledged to follow, and almost nobody in tech is paying attention.</description>
+    <pubDate>Mon, 25 May 2026 10:00:00 +0000</pubDate>
+    <enclosure url="https://github.com/alejoeguren/vitals-and-signals/releases/download/ep006/ep006-podcast-2026-05-25.mp3" length="18089324" type="audio/mpeg"/>
+    <guid isPermaLink="false">vitals-and-signals-ep006</guid>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
     <title>Ep. 005 — The Government Will Pay AI Only If You Get Healthier</title>
     <description>On July 5, the federal government will start paying AI companies only if their patients actually get healthier — and almost nobody outside healthcare has noticed yet.</description>

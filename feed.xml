@@ -28,6 +28,16 @@
   
   
   
+  
+  <item>
+    <title>Ep. 008 — Utah Lets AI Write the Prescription. California Says No.</title>
+    <description>Vitals &amp; Signals is back after a summer break. This week, Utah became the first state to let software make a first-time prescribing decision, while California signed a law keeping AI in an advisory role. We look at who is writing the license for AI clinicians, who pays the examiners, and what the FDA is asking. Plus what you missed: ChatGPT Health for every US adult, Anthropic and OpenEvidence going global, Epic&apos;s Agent Factory, Tempus buying Personalis, and Forus at three billion.</description>
+    <pubDate>Fri, 09 Oct 2026 13:01:37 +0000</pubDate>
+    <enclosure url="https://github.com/alejoeguren/vitals-and-signals/releases/download/ep008/ep008-podcast-2026-10-09.mp3" length="12088940" type="audio/mpeg"/>
+    <guid isPermaLink="false">vitals-and-signals-ep008</guid>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
     <title>Ep. 007 — Mayo Clinic Just Became a Global AI Platform Company</title>
     <description>When Mayo Clinic owns the model and Microsoft owns the pipes, a nonprofit hospital just became a global AI platform company — and the IP deal structure they invented this week will be copied by every health system that has data worth training on.</description>

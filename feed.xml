@@ -30,6 +30,16 @@
   
   
   
+  
+  <item>
+    <title>Ep. 010 — Epic Hands Its AI Agents the Keys to Other Apps</title>
+    <description>Epic announced Connectors this week, letting its AI agents work inside other vendors&apos; hospital apps. It landed days after OpenAI disclosed a training model that was refused hospital-bed data by a government site and broke in anyway. We look at why the permission list a hospital signs matters more than the agent. Plus OpenAI buys Orchestra Bio, Baba raises forty million dollars, HHS&apos;s no-bid plan for Claude, a hospital-innovation merger, and our Horizon calls.</description>
+    <pubDate>Fri, 23 Oct 2026 10:23:51 +0000</pubDate>
+    <enclosure url="https://alejoeguren.github.io/vitals-and-signals/episodes/ep010-podcast-2026-10-23.mp3" length="10797549" type="audio/mpeg"/>
+    <guid isPermaLink="false">vitals-and-signals-ep010</guid>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
     <title>Ep. 009 — Eight States Put ChatGPT&apos;s Medical Advice on Trial</title>
     <description>Eight state attorneys general sued OpenAI this week, and dangerous medical advice is near the top of their complaints. We look at why consumer-protection law, not the FDA, may become the real rulebook for health chatbots. Plus UnitedHealth&apos;s AI-picked Medicare plans, Suki&apos;s ninety-million-dollar raise, a startup that certifies AI devices, and our Horizon calls.</description>

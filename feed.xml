@@ -32,6 +32,16 @@
   
   
   
+  
+  <item>
+    <title>Ep. 012 — Your Doctor&apos;s Records System Just Handed Your Chart to Claude</title>
+    <description>athenahealth, whose software runs offices for about 170,000 clinicians, now lets patients connect their official medical records to Anthropic&apos;s Claude. It makes a chatbot answer with your real labs and meds, and it moves your data somewhere HIPAA mostly doesn&apos;t reach. Plus: Waystar&apos;s AI bookings, Midstream Health&apos;s $20M, LeanTaaS puts cameras in patient rooms, CVS splits in two, and a scorecard on the states suing OpenAI.</description>
+    <pubDate>Fri, 06 Nov 2026 10:17:22 +0000</pubDate>
+    <enclosure url="https://alejoeguren.github.io/vitals-and-signals/episodes/ep012-podcast-2026-11-06.mp3" length="11323629" type="audio/mpeg"/>
+    <guid isPermaLink="false">vitals-and-signals-ep012</guid>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
     <title>Ep. 011 — Washington Deletes the Nutrition Label for Hospital AI</title>
     <description>On Monday, HHS finalized a rule that scraps the requirement for EHR vendors to show standardized &apos;model cards&apos; for their predictive AI tools, over the objections of most commenters. We look at what the label was for, who wins and who loses, and what hospitals should ask for now. Also: Microsoft&apos;s Dragon Copilot numbers, Zocdoc opening its calendar to AI agents, Vera Health&apos;s raise, and Texas&apos;s AI-native hospital.</description>

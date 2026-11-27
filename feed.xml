@@ -35,6 +35,16 @@
   
   
   
+  
+  <item>
+    <title>Ep. 015 — OpenAI Breaks Its Promise on Your Health Chats</title>
+    <description>In July, OpenAI promised that ChatGPT Health conversations using your medical records would never train its models, whatever your settings. As of November 19, that promise is gone, while hospitals using OpenAI&apos;s business products keep the stronger protections. Ale and Chloe argue over whether training on health chats helps patients, and why the patient&apos;s version comes with a toggle while the hospital&apos;s comes with a contract. Plus: the NHS starts the world&apos;s largest AI breast-screening trial, the FDA clears AI that predicts five-year breast cancer risk, and Great Ormond Street puts AI agents to work on paperwork.</description>
+    <pubDate>Fri, 27 Nov 2026 10:27:14 +0000</pubDate>
+    <enclosure url="https://alejoeguren.github.io/vitals-and-signals/episodes/ep015-podcast-2026-11-27.mp3" length="11842499" type="audio/mpeg"/>
+    <guid isPermaLink="false">vitals-and-signals-ep015</guid>
+    <itunes:episode>15</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
     <title>Ep. 014 — Medicare&apos;s Plan to Let AI Do Your Checkup</title>
     <description>CMS published a Clinical Super Intelligence Roadmap that holds clinical AI to a &apos;better than today&apos; standard, lets autonomy be earned in stages, and opens a path for Medicare to pay for AI-led care, starting with pieces of the yearly wellness visit. Ale and Chloe argue over who is accountable when the AI catches something and nobody calls. Plus: OpenAI&apos;s computer-use agents at CVS and Cigna, Apple&apos;s 200,000-person health AI study, Knit Health&apos;s $35M, CHIME&apos;s AI adoption numbers, and a scorecard on Epic.</description>
